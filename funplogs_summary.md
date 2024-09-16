@@ -9,9 +9,9 @@ Arne Muller, and Ralf Dorner
 
 The authors prototyped a game, FunPlogs, to teach about fundamental
 programming concepts through visual scripting. This is in the same vein with Scratch,
-however, it was developed with student collaboration in mind. The game's puzzles is
-primarily made by the students themselves in VR. Meanwhile, solving these puzzles
-involves a personal computer scripting with a simple visual programming language that
+however, it was developed with student collaboration in mind. The game's puzzles are
+made by the students themselves in VR. Meanwhile, solving these puzzles
+involves a personal computer and scripting with a simple visual programming language that
 has branching and looping constructs. The game received positive review from its
 participants and was perceived to be effective in teaching programming concepts.
 A problem that is apparent in the methodology was small sampling size of the
